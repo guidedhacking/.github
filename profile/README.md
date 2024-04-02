@@ -1,4 +1,4 @@
-<h1>Hello There 👋, Welcome to Guided Hacking's GitHub</h1>
+<h1>Hello There 👋, Welcome to GuidedHacking's GitHub</h1>
 <h3>We make tutorials about reverse engineering and game hacking</h3>
 
 - You can find thousands of tutorials, articles & source codes at our website [GuidedHacking.com](https://guidedhacking.com)
