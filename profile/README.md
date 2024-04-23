@@ -17,7 +17,7 @@ We have 12 content creators and many contributors who all earn money making educ
 Is Guided Hacking worth it?  For 10$ a month you gain access to 11 courses, 440+ video tutorials and almost a thousand text tutorials.  So yes, GuidedHacking.com is worth it if you truly want to learn.  If you want to paste cheats and pretend to be a hacker on Discord, then you should go somewhere else.
 
 
-<h3>Official GH Courses</h3>
+<h3>Official GuidedHacking Courses</h3>
 <ul>
 	<li><a href="https://guidedhacking.com/ghb" target="_blank">The Game Hacking Bible</a>&nbsp;- a massive 70 chapter Game Hacking Course</li>
 	<li><a href="https://guidedhacking.com/threads/squally-cs420-game-hacking-course.14191/" target="_blank">Computer Science 420</a>&nbsp;- an eight chapter lecture on CS, Data Types &amp; Assembly</li>
@@ -31,7 +31,7 @@ Is Guided Hacking worth it?  For 10$ a month you gain access to 11 courses, 440+
 	<li><a href="https://guidedhacking.com/forums/java-game-hacking-course-jgh100.553/" target="_blank">Java Game Hacking Course</a>&nbsp;- 6 Chapter Beginner Guide</li>
 </ul>
 
-<h3>Official GH Tools</h3>
+<h3>Official GuidedHacking Tools</h3>
 <ul>
 	<li><a href="https://guidedhacking.com/resources/gh-undetected-cheat-engine-download-udce-driver.14/" target="_blank">GH Undetected Cheat Engine</a>&nbsp;- bypasses EAC and Battleye as of release in 2022</li>
 	<li><a href="https://guidedhacking.com/resources/gh-unreal-engine-dumper-ue4-cheat-engine-plugin.763/" target="_blank">GH Unreal Engine Dumper</a>&nbsp;- Dumps offsets and much more for all UE4 games</li>
@@ -42,7 +42,7 @@ Is Guided Hacking worth it?  For 10$ a month you gain access to 11 courses, 440+
 	<li><a href="https://guidedhacking.com/resources/guided-hacking-dll-injector.4/" target="_blank">GH DLL Injector</a>&nbsp;- The Best Injector Ever Made</li>
 </ul>
 
-<h3>Follow Guided Hacking On All Our Social Media</h3>
+<h3>Follow GuidedHacking On All Our Social Media</h3>
 <ul>
 	<li><a href="https://youtube.com/guidedhacking" rel="noopener" target="_blank">youtube.com</a></li>
 	<li><a href="https://twitter.com/guidedhacking" rel="nofollow noopener" target="_blank">twitter.com</a></li>
