@@ -6,7 +6,7 @@
 
 ![gh-banner-esp](https://github.com/GH-Rake/GH-Rake/assets/15186628/d12a91e3-65af-4678-88f5-17abb0eac224)
 
-GuidedHacking is the best resource to learn reverse engineering, game hacking, malware analysis, exploit development and ethical hacking.  We sell 11 courses, we have 440+ video tutorials, thousands of text tutorials, thousands of source codes & more.  Guided Hacking is a paid service, it is not a free website.  You must pay to gain access to our learning materials.
+GuidedHacking is the best resource to learn reverse engineering, game hacking, malware analysis, exploit development and ethical hacking.  We sell 11 courses, we have 440+ video tutorials, thousands of text tutorials, thousands of source codes & more.
 
 We provide tutorials in text and video format teaching all forms of game modding including the basic programming in C++, Usage of applications such as Cheat Engine, IDA Pro, x64dbg etc..., Basic disassembly of portable executable files, General reverse engineering practices, Graphic APIs such as OpenGL and Direct3D and anything else you might need to learn.
 
